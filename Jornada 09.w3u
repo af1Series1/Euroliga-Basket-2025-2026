@@ -8,6 +8,18 @@
 "stations": 
       [
 	    {
+ 	    "name": "Estrella Roja Belgrado VS Panathinaikos",
+		"image": "https://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
+	    "url": "https://filemoon.to/d/7bpz1a59m0xr/Euroliga_Crvena_VS_Panathinaikos_051125.mkv",
+		"info": "[05/11/2025]",
+      	"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      	"embed": "",
+      	"referer": "",
+      	"isHost": "true",
+      	"online": "true",
+      	"import": false
+      	},
+	    {
  	    "name": "Paris SG VS Bayern Munich",
 		"image": "https://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
 	    "url": "https://filemoon.to/d/d5reqg2rx18s/Euroliga_Paris_VS_Bayern_061125.mkv",
@@ -23,6 +35,18 @@
  	    "name": "Baskonia VS Virtus",
 		"image": "https://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
 	    "url": "https://filemoon.to/d/hvy7vxkwd55y/BASVIR06112025.mkv",
+		"info": "[06/11/2025]",
+      	"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      	"embed": "",
+      	"referer": "",
+      	"isHost": "true",
+      	"online": "true",
+      	"import": false
+      	},
+	    {
+ 	    "name": "Fenerbache VS Asvel",
+		"image": "https://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
+	    "url": "https://filemoon.to/d/shgxox2w29nk/Euroliga_Fenerbahce_VS_Asvel_061125.mkv",
 		"info": "[06/11/2025]",
       	"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       	"embed": "",
