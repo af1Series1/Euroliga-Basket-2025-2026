@@ -1,0 +1,73 @@
+{
+"name": "JORNADA 13",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "",
+"image": "https://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"stations": 
+	[
+
+	{
+ 	"name": "Zalguiris VS Baskonia",
+	"image": "https://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
+	"url": "https://filemoon.to/d/vrnlv8b7f2h2/ZALBAS25112025.mkv",
+	"info": "[25/11/2025]",
+    "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+    "embed": "",
+    "referer": "",
+    "isHost": "true",
+    "online": "true",
+    "import": false
+    },
+	{
+ 	"name": "Valencia VS Bayern Munich",
+	"image": "https://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
+	"url": "https://filemoon.to/d/mf2i35tit81n/VALBAY25112025.mkv",
+	"info": "[25/11/2025]",
+    "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+    "embed": "",
+    "referer": "",
+    "isHost": "true",
+    "online": "true",
+    "import": false
+    },
+	{
+ 	"name": "Hapoel VS Real Madrid",
+	"image": "https://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
+	"url": "https://filemoon.to/d/w0kvz0j4q5jo/HAPMAD25112025.mkv",
+	"info": "[25/11/2025]",
+    "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+    "embed": "",
+    "referer": "",
+    "isHost": "true",
+    "online": "true",
+    "import": false
+    },
+	{
+ 	"name": "FC Barcelona VS Asvel",
+	"image": "https://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
+	"url": "https://filemoon.to/d/23pfbhma4n6a/Euroliga_Barsa_VS_Asvel_261125.mkv",
+	"info": "[26/11/2025]",
+    "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+    "embed": "",
+    "referer": "",
+    "isHost": "true",
+    "online": "true",
+    "import": false
+    },
+	{
+ 	"name": "",
+	"image": "ttps://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
+	"url": "",
+	"info": "[09/10/2025]",
+    "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+    "embed": "",
+    "referer": "",
+    "isHost": "true",
+    "online": "true",
+    "import": false
+    }
+      
+    ]
+}
