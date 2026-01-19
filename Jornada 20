@@ -45,10 +45,34 @@
 "import": false
 },
 {
-"name": "Bayern Munich VS Baskonia",
+"name": "Fenerbache VS Olympiakos",
 "image": "https://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
-"url": "https://bysefujedu.com/d/124yzxdgsnmj/bayern-vs-baskonia-07012026",
-"info": "[07/01/2026]",
+"url": "https://bysekoze.com/d/a4vf1yjw2l5m/euroliga-fenerbahce-vs-olympiacos-060126",
+"info": "[06/01/2026]",
+"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "Happoel VS Dubai",
+"image": "https://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
+"url": "https://bysekoze.com/d/8yj9ult1s37z/euroliga-hapoel-vs-dubai-060126",
+"info": "[06/01/2026]",
+"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "",
+"image": "https://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
+"url": "",
+"info": "[06/01/2026]",
 "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "embed": "",
 "referer": "",
