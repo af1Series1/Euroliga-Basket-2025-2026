@@ -31,6 +31,66 @@
 "isHost": "true",
 "online": "true",
 "import": false
+},
+{
+"name": "Panathinaikos VS Virtus Bolonia",
+"image": "https://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
+"url": "https://bysefujedu.com/d/rflzdc63uu0t/panathinaikos-aktor-athens-vs-virtus-bologna-round-21-replay-euroleague-tv",
+"info": "[08/01/2026]",
+"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "Dubai VS Fenerbache",
+"image": "https://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
+"url": "https://bysefujedu.com/d/wxut3upjnt01/dubai-basketball-vs-fenerbahce-beko-istanbul-round-21-replay-euroleague-tv",
+"info": "[08/01/2026]",
+"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "Milan VS Efes Anadolu",
+"image": "https://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
+"url": "https://bysefujedu.com/d/p1l1yh9vujdl/ea7-emporio-armani-milan-vs-anadolu-efes-istanbul-round-21-replay-euroleague-tv",
+"info": "[09/01/2026]",
+"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "Olympiakos VS Bayern Munich",
+"image": "https://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
+"url": "https://bysefujedu.com/d/onefn5qi54x3/olympiacos-piraeus-vs-fc-bayern-munich-round-21-replay-euroleague-tv",
+"info": "[09/01/2026]",
+"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "Zalguiris VS Estrella Roja Belgrado",
+"image": "https://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
+"url": "https://bysefujedu.com/d/2mtkinenro67/zalgiris-kaunas-vs-crvena-zvezda-meridianbet-belgrade-round-21-replay-euroleague-tv",
+"info": "[09/01/2026]",
+"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
 }
 
 ]
