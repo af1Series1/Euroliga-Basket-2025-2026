@@ -1,0 +1,97 @@
+{
+"name": "JORNADA Play-Off",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "",
+"image": "https://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"stations": 
+[
+
+{
+"name": "Olympiakos VS Monaco",
+"image": "https://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
+"url": "https://bysefujedu.com/d/wowkpng4xhj9/olympiacos-vs-monaco-1-partido-280426",
+"info": "[28/04/2026]",
+"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "Fenerbache VS Zalguiris",
+"image": "https://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
+"url": "https://bysefujedu.com/d/s5p2v0kxe3ie/fenerbahce-vs-zalguiris-1-partido-280426",
+"info": "[28/04/2026]",
+"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "Valencia VS Panathinaikos",
+"image": "https://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
+"url": "https://bysefujedu.com/d/91mp8ku86u6l/valencia-vs-panathinaikos-28042026",
+"info": "[28/04/2026]",
+"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "Real Madrid VS Hapoel",
+"image": "https://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
+"url": "https://bysefujedu.com/d/3gw49coqrnkr/madrid-vs-hapoel-2904026",
+"info": "[29/04/2026]",
+"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "Olympiacos VS Monaco",
+"image": "https://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
+"url": "https://bysefujedu.com/d/ocnnck7ruokx/olympiakos-vs-monaco-300426",
+"info": "[30/04/2026]",
+"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "Valencia VS Panathinaikos",
+"image": "https://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
+"url": "https://bysefujedu.com/d/n8alg9a3upd6/valencia-vs-panathinaikos-30042026",
+"info": "[30/04/2026]",
+"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "Fenerbache VS Zalguiris",
+"image": "https://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
+"url": "https://bysefujedu.com/d/ug2op0p9kduz/fenerbahce-vs-zalguiris-300426",
+"info": "[30/04/2026]",
+"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+      
+]
+}
